@@ -1,0 +1,17 @@
+# Exclude Poco folder and all its contents
+Poco/
+
+# Exclude all files ending with .a
+*.a
+
+# Exclude all files ending with .so
+*.so
+
+# Exclude docs folder and all its contents
+docs/
+
+# Exclude build folder and all its contents
+build/
+
+# Add .gitignore itself to be tracked
+!.gitignore
