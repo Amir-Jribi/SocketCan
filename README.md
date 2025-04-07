@@ -1,6 +1,6 @@
 ## **SocketCAN Communication System**
 
-## **Project Overview**
+## **Project Description**
 This project implements a communication system between a **Host Linux** machine and an **Electronic Control Unit (ECU)** using **SocketCAN**. The system leverages various CAN protocols to ensure efficient data exchange and is built with a focus on modular design, threading, and testing.
 
 ---
